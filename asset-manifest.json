@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mortage-calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/mortage-calculator/static/js/main.26b07230.js",
+    "index.html": "/mortage-calculator/index.html",
+    "main.e6c13ad2.css.map": "/mortage-calculator/static/css/main.e6c13ad2.css.map",
+    "main.26b07230.js.map": "/mortage-calculator/static/js/main.26b07230.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.26b07230.js"
+  ]
+}
